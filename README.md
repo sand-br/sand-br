@@ -22,7 +22,7 @@ Navegue, explore e contribua! A Sandbr é feita por fãs e para fãs, e sua part
 
 ## Informações de licenças:
 
-- O código-fonte da enciclopédia está disponível no [GitHub](https://github.com/cosmere-brasil/sandbr) e é licenciado sob a [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text), versão 3 (GPL v3).
+- O código-fonte da enciclopédia está disponível no [GitHub](https://github.com/cosmere-brasil/sandbr) e no [Codeberg](https://codeberg.org/sandbr/sandbr) e é licenciado sob a [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text), versão 3 (GPL v3).
 - Todo o conteúdo textual da enciclopédia é disponibilizado sob a licença [Creative Commons Atribuição-NãoComercial-CompartilharIgual 4.0 Internacional](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pt) (CC BY-NC-SA 4.0).
 - Imagens e outros arquivos de terceiros são utilizados de acordo com o princípio de “uso justo”, com respeito às legislações aplicáveis de direitos autorais.
 
