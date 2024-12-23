@@ -1,5 +1,5 @@
 # Sandbr
-Bem-vindo(a) à **Sandbr**, a enciclopédia brasileira dedicada às obras do **[Brandon Sanderson](https://www.instagram.com/brandsanderson/)** (ou tio Sand, para os intímos).
+Bem-vindo(a) à [**Sandbr**](https://sandbr.org/), a enciclopédia brasileira dedicada às obras do [**Brandon Sanderson**](https://www.instagram.com/brandsanderson/) (ou tio Sand, para os intímos).
 
 Aqui você encontrará um repositório de informações sobre os mundos, personagens, sistemas mágicos e tudo mais que compõe o Cosmere e além. 
 
