@@ -11,7 +11,10 @@ Navegue, explore e contribua! A Sandbr é feita por fãs e para fãs, e sua part
 
 ### “Vida antes da morte. Força antes da fraqueza. Jornada antes do destino.” 
 
-## Tecnologias usadas na Sandbr:
+## Usadas na Sandbr:
+
+### Tecnologias usadas:
+
 <p> 
     <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width='40' alt="Next.js"/></a>
     <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" width='40' alt="React"/></a>
@@ -21,6 +24,12 @@ Navegue, explore e contribua! A Sandbr é feita por fãs e para fãs, e sua part
     <a href="https://pnpm.io" target="_blank"><img src="https://skillicons.dev/icons?i=pnpm" width='40' alt="pNPm"/></a>
     <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" width='40' alt="Git"/></a>
 </p>
+
+### Fontes usadas:
+
+- [Averia Serif Libre](https://fonts.google.com/specimen/Averia+Serif+Libre) no logo.
+- [Inter](https://rsms.me/inter/) no corpo do site.
+- [Geist](https://vercel.com/font) no corpo do site.
 
 ## Informações de licenças:
 
