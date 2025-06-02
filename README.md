@@ -22,12 +22,12 @@ Você pode entrar em contato conosco através dos seguintes canais:
 
 - E-mail: contato@sandbr.org.
 - Aba de [Contato](https://sandbr.org/contato).
-- Comunidade da Sandbr no [Discord](https://discord.gg/nk3SH8YM)
+- Comunidade da Sandbr no [Discord](https://discord.gg/Ep3YyhKUZc)
 
 Ao enviar sua mensagem, seja claro e, se possível, inclua links ou referências ao conteúdo relacionado. Estamos sempre abertos a colaborações, feedbacks e parcerias.
 
 #### Avisos gerais:
-- Dúvidas gerais sobre as obras de Brandon Sanderson podem ser discutidas/respondidas pela [comunidade](https://discord.gg/nk3SH8YM). Mas incentivamos você a consultar os artigos antes de entrar em contato.
+- Dúvidas gerais sobre as obras de Brandon Sanderson podem ser discutidas/respondidas pela [comunidade](https://discord.gg/Ep3YyhKUZc). Mas incentivamos você a consultar os artigos antes de entrar em contato.
 - Em casos relacionados a questões técnicas ou problemas na navegação do site, por favor, forneça detalhes sobre o erro e o dispositivo utilizado.
 
 ***
