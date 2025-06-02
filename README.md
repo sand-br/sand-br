@@ -11,23 +11,23 @@ Navegue, explore e contribua! A Sandbr é feita por fãs e para fãs, e sua part
 
 ## Informações de licenças:
 
-- O código-fonte da enciclopédia está disponível no [GitHub](https://github.com/cosmere-brasil/sandbr) e é licenciado sob a [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text), versão 3 (GPL v3).
+- O código-fonte da enciclopédia está disponível no repositório [sandbr](https://github.com/sand-br/sandbr) e é licenciado sob a [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text), versão 3 (GPL v3).
 - Todo o conteúdo textual da enciclopédia é disponibilizado sob a licença [Creative Commons Atribuição-NãoComercial-CompartilharIgual 4.0 Internacional](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pt) (CC BY-NC-SA 4.0).
-- Imagens e outros arquivos de terceiros são utilizados de acordo com o princípio de “uso justo”, com respeito às legislações aplicáveis de direitos autorais.
+- Imagens e outros arquivos de terceiros são utilizados, primariamente, de acordo com o princípio de *uso justo* (*fair use*), com respeito às legislações aplicáveis de direitos autorais.
 
 ## Contato:
 Tem dúvidas, sugestões ou encontrou algum erro em nosso conteúdo? Queremos ouvir você! A Sandbr é um projeto colaborativo, e sua contribuição é essencial para o crescimento e a qualidade da enciclopédia.
 
 Você pode entrar em contato conosco através dos seguintes canais:
 
-- E-mail: sandbr@proton.me.
-- Comunidade [Sandbr no Discord](https://discord.gg/wsMb237Fj8)
-- Aba de [Contato](https://sandbr.vercel.app/contato).
+- E-mail: contato@sandbr.org.
+- Aba de [Contato](https://sandbr.org/contato).
+- Comunidade da Sandbr no [Discord](https://discord.gg/nk3SH8YM)
 
 Ao enviar sua mensagem, seja claro e, se possível, inclua links ou referências ao conteúdo relacionado. Estamos sempre abertos a colaborações, feedbacks e parcerias.
 
-#### Avisos importantes:
-- Dúvidas gerais sobre as obras de Brandon Sanderson podem ser discutidas/respondidas pela [comunidade](https://discord.gg/wsMb237Fj8). Mas incentivamos você a consultar os artigos antes de entrar em contato.
+#### Avisos gerais:
+- Dúvidas gerais sobre as obras de Brandon Sanderson podem ser discutidas/respondidas pela [comunidade](https://discord.gg/nk3SH8YM). Mas incentivamos você a consultar os artigos antes de entrar em contato.
 - Em casos relacionados a questões técnicas ou problemas na navegação do site, por favor, forneça detalhes sobre o erro e o dispositivo utilizado.
 
 ***
